@@ -1,0 +1,5 @@
+patch:
+  # 多来几个词
+  menu/page_size: 8
+  ascii_composer/switch_key/Shift_L: inline_ascii
+  ascii_composer/switch_key/Shift_R: inline_ascii
