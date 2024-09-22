@@ -3,3 +3,4 @@ patch:
   menu/page_size: 8
   ascii_composer/switch_key/Shift_L: noop
   ascii_composer/switch_key/Shift_R: noop
+  ascii_composer/switch_key/Caps_Lock: commit_code
