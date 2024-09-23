@@ -5,9 +5,6 @@ name: custom_en
 version: "2024.9.22"
 sort: by_weight
 ...
-
 pnpm	pnpm	1
-npm	npm	1
-yarn	yarn	1
 typst	typst	1
 
