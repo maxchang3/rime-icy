@@ -1,6 +1,8 @@
 patch:
   # 多来几个词
   menu/page_size: 8
+  # 关闭 Shift 键切换
   ascii_composer/switch_key/Shift_L: noop
   ascii_composer/switch_key/Shift_R: noop
+  # Caps Lock 键后直接上屏
   ascii_composer/switch_key/Caps_Lock: commit_code
