@@ -8,3 +8,6 @@ patch:
   ascii_composer/switch_key/Caps_Lock: commit_code
   # 对 ` 符号进行修正
   punctuator/half_shape/` : '·'
+  # 方案选单快捷键有一个就行了，Control + Grave 和 VSCode 里的快捷键冲突
+  switcher/hotkeys:
+      - Control+Shift+grave
