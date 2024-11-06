@@ -3,9 +3,9 @@ patch:
   switches/@0/reset: 0
   # 只保留中文输入法
   switches/@0/states: [ 中 ]
-  processors:
+  engine/processors:
     - lua_processor@select_character          # 以词定字
-    # - ascii_composer
+    # - ascii_composer                        # 去除英文输入
     - recognizer
     - key_binder
     - speller
