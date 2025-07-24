@@ -12,4 +12,5 @@ maxchang	maxchang
 OrbStack	OrbStack
 ResNet	ResNet
 RAG	RAG
-deno  deno
+deno	deno
+retry	retry
