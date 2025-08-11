@@ -13,3 +13,5 @@ patch:
   # 方案选单快捷键有一个就行了，Control + Grave 和 VSCode 里的快捷键冲突
   switcher/hotkeys:
       - Control+Shift+grave
+  # 自动纠错
+  translator/enable_correction: true
