@@ -19,8 +19,12 @@ local is_user = {
 
 function M.func(input)
     for cand in input:iter() do
-        if is_user[cand.type] == M.is_in_user_dict then
-            cand.comment = cand.comment .. '*'
+        -- if is_user[cand.type] == M.is_in_user_dict then
+        --     cand.comment = cand.comment .. '*'
+        -- end
+        -- 整句联想，加上𑄗符号
+        if cand.type == 'sentence' then
+            cand.comment = '∞'
         end
         yield(cand)
     end

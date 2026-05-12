@@ -13,3 +13,5 @@ patch:
     - selector
     - navigator
     - express_editor
+  engine/filters/+:
+    - lua_filter@*is_in_user_dict

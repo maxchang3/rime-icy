@@ -15,3 +15,14 @@ patch:
       - Control+Shift+grave
   # 自动纠错
   translator/enable_correction: true
+  grammar:
+    language: wanxiang-lts-zh-hans
+    collocation_max_length: 8
+    collocation_min_length: 3
+    collocation_penalty: -8
+    rear_penalty: -18
+  translator/contextual_suggestions: true
+  translator/max_homophones: 9
+  translator/max_homographs: 7
+  # 空格直接上屏
+  
