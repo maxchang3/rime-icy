@@ -6,6 +6,7 @@
 - 根据个人需求对一些词汇、词频进行了调整
 - 除去 ASCII 模式，使用 macOS 原生英文输入法
 - 添加了类 macOS 原生输入法的主题
+- 添加[万象拼音](https://github.com/amzxyz/rime-wanxiang)模型优化体验。
 
 # 雾凇拼音
 
