@@ -15,7 +15,7 @@ patch:
       - Control+Shift+grave
   # 自动纠错
   translator/enable_correction: true
-  // 万象拼音
+  # 万象拼音
   grammar:
     language: wanxiang-lts-zh-hans
     collocation_max_length: 8
