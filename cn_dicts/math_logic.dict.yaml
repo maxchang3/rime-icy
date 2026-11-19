@@ -1,0 +1,321 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# 数理逻辑术语词库
+#
+#
+---
+name: math_logic
+version: "2026-11-18"
+sort: by_weight
+...
+
+# ---- 集合与关系 ----
+一元关系	yi yuan guan xi	1500
+三歧性	san qi xing	2500
+不可数集合	bu ke shu ji he	1500
+乘积公理	cheng ji gong li	1500
+二元关系	er yuan guan xi	1500
+传递关系	chuan di guan xi	1500
+传递集合	chuan di ji he	1500
+保序映射	bao xu ying she	1500
+公理集合论	gong li ji he lun	1500
+内射	nei she	2500
+分离公理	fen li gong li	1500
+势的三歧性	shi de san qi xing	1500
+单射	dan she	2500
+单点集	dan dian ji	2500
+原像	yuan xiang	2500
+双射	shuang she	2500
+可数集合	ke shu ji he	1500
+商集	shang ji	2500
+基础公理	ji chu gong li	1500
+复合关系	fu he guan xi	1500
+外延公理	wai yan gong li	1500
+多元映射	duo yuan ying she	1500
+对称关系	dui chen guan xi	1500
+对称差	dui chen cha	2500
+幂集	mi ji	2500
+幂集公理	mi ji gong li	1500
+并集公理	bing ji gong li	1500
+广义交	guang yi jiao	2500
+广义并	guang yi bing	2500
+广义并公理	guang yi bing gong li	1500
+广义笛卡儿积	guang yi di ka er ji	1500
+序型	xu xing	2500
+恒等映射	heng deng ying she	1500
+指标集	zhi biao ji	2500
+无序对	wu xu dui	2500
+无序对公理	wu xu dui gong li	1500
+无穷公理	wu qiong gong li	1500
+无穷集合	wu qiong ji he	1500
+替换公理	ti huan gong li	1500
+有序对	you xu dui	2500
+有穷集	you qiong ji	2500
+有穷集合	you qiong ji he	1500
+概括原则	gai kuo yuan ze	1500
+概括原理	gai kuo yuan li	1500
+正则公理	zheng ze gong li	1500
+满射	man she	2500
+真子集	zhen zi ji	2500
+禁对称性	jin dui chen xing	1500
+禁自反性	jin zi fan xing	1500
+空集公理	kong ji gong li	1500
+笛卡儿积	di ka er ji	1500
+等价关系	deng jia guan xi	1500
+等势	deng shi	2500
+自反关系	zi fan guan xi	1500
+良基关系	liang ji guan xi	1500
+逆像	ni xiang	2500
+逆关系	ni guan xi	2500
+逆映射	ni ying she	2500
+选择公理	xuan ze gong li	1500
+集族	ji zu	2500
+
+# ---- 序与格 ----
+上确界	shang que jie	2500
+下确界	xia que jie	2500
+严格偏序	yan ge pian xu	1500
+佐恩引理	zuo en yin li	1500
+偏序集	pian xu ji	2500
+全序	quan xu	2500
+单值化原则	dan zhi hua yuan ze	1500
+后继序数	hou ji xu shu	1500
+后继集合	hou ji ji he	1500
+强偏序	qiang pian xu	2500
+抽屉原则	chou ti yuan ze	1500
+最大元	zui da yuan	2500
+最小元	zui xiao yuan	2500
+有向偏序	you xiang pian xu	1500
+有向极限	you xiang ji xian	1500
+有向系统	you xiang xi tong	1500
+极大元	ji da yuan	2500
+极大原则	ji da yuan ze	1500
+极大原理	ji da yuan li	1500
+极小元	ji xiao yuan	2500
+极限序数	ji xian xu shu	1500
+离散线序	li san xian xu	1500
+稠密无端点线序	chou mi wu duan dian xian xu	1500
+线序集	xian xu ji	2500
+良基偏序	liang ji pian xu	1500
+良序	liang xu	2500
+良序原则	liang xu yuan ze	1500
+良序原理	liang xu yuan li	1500
+良序集	liang xu ji	2500
+采样原则	cai yang yuan ze	1500
+
+# ---- 数理逻辑基础 ----
+一阶形式语言	yi jie xing shi yu yan	1500
+一阶语言	yi jie yu yan	1500
+不可满足公式	bu ke man zu gong shi	1500
+元数学	yuan shu xue	2500
+全称量词	quan cheng liang ci	1500
+公式分层	gong shi fen ceng	1500
+公理化方法	gong li hua fang fa	1500
+公理模式	gong li mo shi	1500
+内涵表示法	nei han biao shi fa	1500
+前束范式	qian shu fan shi	1500
+原子公式	yuan zi gong shi	1500
+原子命题符	yuan zi ming ti fu	1500
+可满足公式	ke man zu gong shi	1500
+合取子句	he qu zi ju	1500
+合取范式	he qu fan shi	1500
+合式公式	he shi gong shi	1500
+命题演算	ming ti yan suan	1500
+外延表示法	wai yan biao shi fa	1500
+子公式	zi gong shi	2500
+存在量词	cun zai liang ci	1500
+对角线方法	dui jiao xian fang fa	1500
+归纳原理	gui na yuan li	1500
+归纳定义	gui na ding yi	1500
+归谬法	gui miu fa	2500
+形式系统	xing shi xi tong	1500
+形成规则	xing cheng gui ze	1500
+数学归纳原理	shu xue gui na yuan li	1500
+斯科伦范式	si ke lun fan shi	1500
+有效公式	you xiao gong shi	1500
+有穷性方法	you qiong xing fang fa	1500
+构造性证明	gou zao xing zheng ming	1500
+析取子句	xi qu zi ju	1500
+析取范式	xi qu fan shi	1500
+模型论	mo xing lun	2500
+永假公式	yong jia gong shi	1500
+永真公式	yong zhen gong shi	1500
+直觉主义	zhi jue zhu yi	1500
+真值函数	zhen zhi han shu	1500
+第二数学归纳法	di er shu xue gui na fa	1500
+算术化	suan shu hua	2500
+约束出现	yue shu chu xian	1500
+约束变元	yue shu bian yuan	1500
+自由出现	zi you chu xian	1500
+自由变元	zi you bian yuan	1500
+论域	lun yu	2500
+证明论	zheng ming lun	2500
+语义后承	yu yi hou cheng	1500
+谓词演算	wei ci yan suan	1500
+超穷归纳	chao qiong gui na	1500
+超穷归纳定义	chao qiong gui na ding yi	1500
+超穷归纳法	chao qiong gui na fa	1500
+递归定义	di gui ding yi	1500
+递归论	di gui lun	2500
+逻辑主义	luo ji zhu yi	1500
+逻辑代数	luo ji dai shu	1500
+逻辑后承	luo ji hou cheng	1500
+逻辑联结词	luo ji lian jie ci	1500
+重言式	chong yan shi	2500
+量词消去	liang ci xiao qu	1500
+量词深度	liang ci shen du	1500
+闭项	bi xiang	2500
+间接证明	jian jie zheng ming	1500
+非构造性证明	fei gou zao xing zheng ming	1500
+
+# ---- 证明论与推理规则 ----
+不完全性定理	bu wan quan xing ding li	1500
+不完备性定理	bu wan bei xing ding li	1500
+内插定理	nei cha ding li	1500
+分离规则	fen li gui ze	1500
+可证公式	ke zheng gong shi	1500
+可靠性定理	ke kao xing ding li	1500
+哥德尔不完备性定理	ge de er bu wan bei xing ding li	1500
+完全性定理	wan quan xing ding li	1500
+完备性定理	wan bei xing ding li	1500
+形式定理	xing shi ding li	1500
+形式推演	xing shi tui yan	1500
+形式证明	xing shi zheng ming	1500
+推演定理	tui yan ding li	1500
+斜式推演	xie shi tui yan	1500
+无矛盾性	wu mao dun xing	1500
+替换定理	ti huan ding li	1500
+紧致性定理	jin zhi xing ding li	1500
+自然演绎	zi ran yan yi	1500
+
+# ---- 模型论 ----
+上绝对性	shang jue dui xing	1500
+下绝对性	xia jue dui xing	1500
+代数闭	dai shu bi	2500
+初等图像	chu deng tu xiang	1500
+初等子结构	chu deng zi jie gou	1500
+初等子结构链	chu deng zi jie gou lian	1500
+初等嵌入	chu deng qian ru	1500
+初等嵌入映射	chu deng qian ru ying she	1500
+初等扩张	chu deng kuo zhang	1500
+初等等价	chu deng deng jia	1500
+初等链	chu deng lian	2500
+可定义性	ke ding yi xing	1500
+可定义集	ke ding yi ji	1500
+可隐定义性	ke yin ding yi xing	1500
+同态	tong tai	2500
+同态映射	tong tai ying she	1500
+同构映射	tong gou ying she	1500
+哥德尔	ge de er	2500
+型省略定理	xing sheng lve ding li	1500
+子结构链	zi jie gou lian	1500
+完全理论	wan quan li lun	1500
+完备理论	wan bei li lun	1500
+对子结构封闭理论	dui zi jie gou feng bi li lun	1500
+对扩张模型封闭理论	dui kuo zhang mo xing feng bi li lun	1500
+对有向极限保持	dui you xiang ji xian bao chi	1500
+局部实现	ju bu shi xian	1500
+局部省略	ju bu sheng lve	1500
+嵌入映射	qian ru ying she	1500
+布劳威尔	bu lao wei er	1500
+布尔函数	bu er han shu	1500
+希尔伯特	xi er bo te	1500
+序同态	xu tong tai	2500
+序同态映射	xu tong tai ying she	1500
+序同构	xu tong gou	2500
+序同构映射	xu tong gou ying she	1500
+康托尔	kang tuo er	2500
+弗雷格	fu lei ge	2500
+戴德金	dai de jin	2500
+斯科伦函数	si ke lun han shu	1500
+斯科伦化	si ke lun hua	1500
+斯科伦定理	si ke lun ding li	1500
+斯科伦理论	si ke lun li lun	1500
+斯科伦膨胀理论	si ke lun peng zhang li lun	1500
+斯科伦膨胀结构	si ke lun peng zhang jie gou	1500
+斯科伦膨胀语言	si ke lun peng zhang yu yan	1500
+斯科伦闭包	si ke lun bi bao	1500
+有穷可满足的	you qiong ke man zu de	1500
+有穷同构	you qiong tong gou	1500
+有证据理论	you zheng ju li lun	1500
+极大协调理论	ji da xie tiao li lun	1500
+模型完全性	mo xing wan quan xing	1500
+模型完全理论	mo xing wan quan li lun	1500
+正图像	zheng tu xiang	2500
+生成子结构	sheng cheng zi jie gou	1500
+省略型定理	sheng lve xing ding li	1500
+真定义	zhen ding yi	2500
+类型省略定理	lei xing sheng lve ding li	1500
+素模型	su mo xing	2500
+膨胀语言	peng zhang yu yan	1500
+范畴性	fan chou xing	2500
+范畴理论	fan chou li lun	1500
+部分初等嵌入	bu fen chu deng qian ru	1500
+部分初等嵌入映射	bu fen chu deng qian ru ying she	1500
+部分同构	bu fen tong gou	1500
+部分同构映射	bu fen tong gou ying she	1500
+
+# ---- 可计算性 ----
+丘奇-图灵论题	qiu qi tu ling lun ti	1500
+停机问题	ting ji wen ti	1500
+克林范式定理	ke lin fan shi ding li	1500
+全函数	quan han shu	2500
+初始配置	chu shi pei zhi	1500
+判定问题	pan ding wen ti	1500
+单带确定图灵机	dan dai que ding tu ling ji	1500
+厄布朗定理	e bu lang ding li	1500
+原始递归函数	yuan shi di gui han shu	1500
+可判定谓词	ke pan ding wei ci	1500
+可表示关系	ke biao shi guan xi	1500
+可表示函数	ke biao shi han shu	1500
+可表示性定理	ke biao shi xing ding li	1500
+后继配置	hou ji pei zhi	1500
+哥德尔数	ge de er shu	1500
+哥德尔第一不完全性定理	ge de er di yi bu wan quan xing ding li	1500
+哥德尔第二不完全性定理	ge de er di er bu wan quan xing ding li	1500
+哥德尔编码	ge de er bian ma	1500
+图灵可计算函数	tu ling ke ji suan han shu	1500
+图灵度	tu ling du	2500
+图灵归纳	tu ling gui na	1500
+基本函数	ji ben han shu	1500
+复合算子	fu he suan zi	1500
+多一归约	duo yi gui yue	1500
+多带图灵机	duo dai tu ling ji	1500
+希尔伯特判定问题	xi er bo te pan ding wen ti	1500
+标准算术模型	biao zhun suan shu mo xing	1500
+特征函数	te zheng han shu	1500
+皮亚诺公理	pi ya nuo gong li	1500
+皮亚诺算术系统	pi ya nuo suan shu xi tong	1500
+确定图灵机	que ding tu ling ji	1500
+神谕图灵机	shen yu tu ling ji	1500
+终止配置	zhong zhi pei zhi	1500
+自我繁殖图灵机	zi wo fan zhi tu ling ji	1500
+自省图灵机	zi xing tu ling ji	1500
+计算可枚举集	ji suan ke mei ju ji	1500
+输入问题	shu ru wen ti	1500
+输出问题	shu chu wen ti	1500
+递归关系	di gui guan xi	1500
+递归可枚举集	di gui ke mei ju ji	1500
+递归定理	di gui ding li	1500
+递归度	di gui du	2500
+递归算子	di gui suan zi	1500
+递归谓词	di gui wei ci	1500
+递归集	di gui ji	2500
+通用函数	tong yong han shu	1500
+通用图灵机	tong yong tu ling ji	1500
+部分函数	bu fen han shu	1500
+部分可判定谓词	bu fen ke pan ding wei ci	1500
+部分递归函数	bu fen di gui han shu	1500
+配对函数	pei dui han shu	1500
+阿克曼函数	a ke man han shu	1500
+非标准算术模型	fei biao zhun suan shu mo xing	1500
+非确定图灵机	fei que ding tu ling ji	1500
+
+# ---- 定理与假设 ----
+希尔伯特计划	xi er bo te ji hua	1500
+广义连续统假设	guang yi lian xu tong jia she	1500
+康托尔-伯恩斯坦定理	kang tuo er bo en si tan ding li	1500
+康托尔定理	kang tuo er ding li	1500
+罗素悖论	luo su bei lun	1500
+连续统假设	lian xu tong jia she	1500
